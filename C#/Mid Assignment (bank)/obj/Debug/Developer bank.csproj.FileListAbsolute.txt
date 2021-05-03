@@ -1,0 +1,18 @@
+C:\Users\ROBIN\Desktop\developer\Developer bank\bin\Debug\Developer bank.exe.config
+C:\Users\ROBIN\Desktop\developer\Developer bank\bin\Debug\Developer bank.exe
+C:\Users\ROBIN\Desktop\developer\Developer bank\bin\Debug\Developer bank.pdb
+C:\Users\ROBIN\Desktop\developer\Developer bank\obj\Debug\Developer bank.csproj.CoreCompileInputs.cache
+C:\Users\ROBIN\Desktop\developer\Developer bank\obj\Debug\Developer bank.exe
+C:\Users\ROBIN\Desktop\developer\Developer bank\obj\Debug\Developer bank.pdb
+D:\aiub\aiub pdf\C#\Developer bank_sm\Developer bank\bin\Debug\Developer bank.exe.config
+D:\aiub\aiub pdf\C#\Developer bank_sm\Developer bank\obj\Debug\Developer bank.exe
+D:\aiub\aiub pdf\C#\Developer bank_sm\Developer bank\obj\Debug\Developer bank.pdb
+D:\aiub\aiub pdf\C#\Developer bank_sm\Developer bank\obj\Debug\Developer bank.csprojResolveAssemblyReference.cache
+D:\aiub\aiub pdf\C#\Developer bank_sm\Developer bank\bin\Debug\Developer bank.exe
+D:\aiub\aiub pdf\C#\Developer bank_sm\Developer bank\bin\Debug\Developer bank.pdb
+D:\aiub\aiub pdf\C#\Developer bank_sm\Developer bank\bin\Debug\mscorlib.dll
+D:\aiub\aiub pdf\C#\Developer bank_sm\Developer bank\bin\Debug\normidna.nlp
+D:\aiub\aiub pdf\C#\Developer bank_sm\Developer bank\bin\Debug\normnfc.nlp
+D:\aiub\aiub pdf\C#\Developer bank_sm\Developer bank\bin\Debug\normnfd.nlp
+D:\aiub\aiub pdf\C#\Developer bank_sm\Developer bank\bin\Debug\normnfkc.nlp
+D:\aiub\aiub pdf\C#\Developer bank_sm\Developer bank\bin\Debug\normnfkd.nlp
